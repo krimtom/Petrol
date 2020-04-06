@@ -1,0 +1,17 @@
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\bin\Debug\netcoreapp3.1\Petrol.exe
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\obj\Debug\netcoreapp3.1\Petrol.csprojAssemblyReference.cache
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\obj\Debug\netcoreapp3.1\Petrol.AssemblyInfoInputs.cache
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\obj\Debug\netcoreapp3.1\Petrol.AssemblyInfo.cs
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\bin\Debug\netcoreapp3.1\Petrol.deps.json
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\bin\Debug\netcoreapp3.1\Petrol.runtimeconfig.json
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\bin\Debug\netcoreapp3.1\Petrol.runtimeconfig.dev.json
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\bin\Debug\netcoreapp3.1\Petrol.dll
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\bin\Debug\netcoreapp3.1\Petrol.pdb
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\obj\Debug\netcoreapp3.1\Petrol.csproj.CoreCompileInputs.cache
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\obj\Debug\netcoreapp3.1\Petrol.csproj.CopyComplete
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\obj\Debug\netcoreapp3.1\Petrol.dll
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\obj\Debug\netcoreapp3.1\Petrol.pdb
+C:\Users\Kristín María\Documents\Umsóknir\Petrol\Petrol\obj\Debug\netcoreapp3.1\Petrol.genruntimeconfig.cache
